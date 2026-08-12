@@ -253,8 +253,8 @@ Product 🚀
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/top-langs.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/piyushborana4/piyushborana4/main/profile/stats.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/piyushborana4/piyushborana4/main/profile/top-langs.svg" height="170" />
 </p>
 
 # 🔥 Contribution Streak
