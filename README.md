@@ -250,30 +250,25 @@ Product 🚀
 
 ---
 
-# 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
-
----
 
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=piyushborana4&theme=transparent&hide_border=true" />
 </p>
 
 ---
-
-# 🐍 Contribution Graph
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/piyushborana4/piyushborana4/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
----
 
 # 🎯 2026 Goals
 
@@ -335,6 +330,13 @@ I'm always interested in:
 ---
 
 <p align="center">
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=piyushborana4&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ⚡ Build → Break → Learn → Repeat → Build Better.
 
